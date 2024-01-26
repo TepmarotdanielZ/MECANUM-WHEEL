@@ -1,0 +1,11 @@
+main.c:94:8:HAL_TIM_PWM_PulseFinishedCallback	16	static
+main.c:100:8:Set_LED	24	static
+main.c:110:8:Set_Brightness	16	static
+main.c:132:8:WS2812_Send	32	static
+main.c:171:8:Reset_LED	16	static
+main.c:182:10:map	56	static
+main.c:188:8:reset_data	4	static
+main.c:201:8:RGB_Speed	24	static
+main.c:238:5:main	16	static
+main.c:531:6:SystemClock_Config	88	static
+main.c:579:6:Error_Handler	4	static,ignoring_inline_asm
